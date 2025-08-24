@@ -1,0 +1,4 @@
+2025-08-24 08:54:30 TRACE Trace log message
+2025-08-24 08:54:30 DEBUG Debug log message
+2025-08-24 08:54:30 INFO  Info log message
+2025-08-24 08:54:30 ERROR Error log message
